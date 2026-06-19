@@ -1,0 +1,4 @@
+INFO: App started
+INFO: Connected to DB
+ERROR: Timeout on query
+INFO: Retrying...

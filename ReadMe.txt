@@ -1,0 +1,1 @@
+cd "/storage/emulated/0/For My personal Project/Programs/Kotlin_Start_From_Besic/Basic_Programs/"
